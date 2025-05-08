@@ -16,6 +16,10 @@ The repository includes the following notebooks:
 - **Python_Libraries.ipynb**: Get introduced to essential Python libraries for data analysis and more.
 - **ShallowCopyVsDeepCopy.ipynb**: Understand the differences between shallow and deep copying of objects.
 - **StringFormatting.ipynb**: Master various string formatting techniques in Python.
+- Multiple_Inheritance.ipynb: Learn how Python handles multiple inheritance and method resolution order (MRO).
+- OOPS.ipynb: Understand core OOP concepts in Python like classes, inheritance, and polymorphism.
+- ReadJsonToCSV.ipynb: Convert JSON data to CSV format using Python and `pandas`.
+
 
 ## 🛠️ Getting Started
 
